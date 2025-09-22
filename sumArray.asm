@@ -1,6 +1,6 @@
 .data 
 
-arr:  .word 1, 2, 3, 4, 5
+arr:  .word 1 , 2, 3, 4, 5 , 6
 n:  .word 5 #This is the lenght or the array (gezz is that how you spell length ? damn it idk whatever)
 nl: .asciiz "\n"
 
