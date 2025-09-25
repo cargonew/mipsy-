@@ -1,6 +1,5 @@
 #Hello i am gonna reverse a string in assembly...how awesome!!!?
 
-
 .data 
     str:    .asciiz "HELLO"
     rev:    .space 6
