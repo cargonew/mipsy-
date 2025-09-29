@@ -3,8 +3,8 @@
 #Hello i reversed an array again
 
 .data
-    arr:    .word 1 , 2 , 3 , 4 , 5 , 6
-    len:    .word  6
+    arr:    .word 1 , 2 , 3 , 4 , 5 , 7 , 6
+    len:    .word  7
     space: .asciiz " "
     nl: .asciiz"\n"
 
